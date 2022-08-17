@@ -28,15 +28,6 @@ Material UI
 
 MongoDB
 
-#What i learned
-
-Advanced React Best Practices, such as folder & file structure, hooks, and refs
-
-Creating a User Interface using Material UI
-
-understanding on how routing work using express js
-
-How to connecting database using MongoDB
 
 #Credits
 
